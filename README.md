@@ -28,7 +28,7 @@ evaluating XAI methods happen in a separate project that reads the data with `fb
 
 ```bash
 git clone <this-repo-url> Funny_Birds
-cd Funny_Birds
+cd Funny_Birds_Supperssor
 ```
 
 **2. Python environment**
